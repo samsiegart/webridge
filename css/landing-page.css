@@ -40,6 +40,10 @@ h6 {
     padding-top: 20%;
     padding-bottom: 20%;
 }
+.intro-message .but{
+    text-align: center;
+    padding: 1% 0;
+}
 
 .intro-message > h1 {
     margin: 0;
